@@ -1,4 +1,4 @@
 # -firstp
-hello odin
-my first github repo
+My first website. its all about food recipes
+
 
